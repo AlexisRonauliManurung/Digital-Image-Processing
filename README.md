@@ -3,4 +3,4 @@
 3. After change the path and name of the file that you save, now you can run the code one by one
 4. Now you know how the digital processing works :) (basic examples)
 
-- Don't forget to install all module : opencv-python
+- Don't forget to install all module : opencv-python, numpy, os and matpolib(for histogram)
